@@ -141,4 +141,10 @@ dmypy.json
 # ide stuff
 .vs/
 .vscode/
+
+# cqhttp stuff
+/cqhttp/*
+!/cqhttp/config-example.yml
+
+
 # End of https://www.toptal.com/developers/gitignore/api/python
